@@ -47,4 +47,4 @@ else if(z >= 101){
 
 var y = nivel(x);
 
-console.log("O Herói tem de saldo de " + x + "está no nível de " + y );
+console.log("O Herói tem de saldo de " + x + " está no nível de " + y );
